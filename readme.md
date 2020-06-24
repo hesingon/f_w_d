@@ -1,0 +1,1 @@
+Change the valuable of variable "N_SIZE" to alter the size of the game board.
